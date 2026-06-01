@@ -5,6 +5,8 @@ End-to-end product analytics dashboard analysing 8M+ real eCommerce
 events from a cosmetics store to find where users drop out of the 
 purchase funnel and how much revenue is being lost.
 
+🔗 **[Click here to view the live interactive Funnel analysis report](https://htmlpreview.github.io/?https://github.com/Hari-Shankar-11/ecommerce-funnel-analyser/blob/main/funnel.html)**
+
 ## Dataset
 REES46 eCommerce Events — Cosmetics Shop  
 Source: https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop  
